@@ -4,7 +4,7 @@ A platform that help you to understand, what is industry 4.0 and some tech tutor
 # uart.rar, I2C.rar
 We have source code to make uart and I2C communication
 
-# sensors DHT11, DHT22, SR04, FSR, BH1750, LightBlocking,CDS_LightControl,IRS-180, SG90, DC MOTOR
+# sensors DHT11, DHT22, SR04, FSR, BH1750, LightBlocking,CDS_LightControl,IRS-180, SG90, DC MOTOR, DS18B20
 We have source code, demo and sensors introduction  
 
 (溫溼度感測 temperature and humidity)
@@ -24,3 +24,5 @@ We have source code, demo and sensors introduction
 (伺服馬達 Servo motor)
 
 (直流馬達 DC )
+
+(防水溫度探頭 DS18B20)
