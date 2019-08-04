@@ -7,7 +7,7 @@ We have source code to make uart and I2C communication
 # sensors DHT11, DHT22, SR04, FSR  
 # sensors BH1750, LightBlocking,CDS_LightControl, IRS-180
 # sensors SG90, DC MOTOR, DS18B20
-# sensors MQ2, PIR, FC-37
+# sensors MQ2, MQ9, PIR, PIR1.2, FC-37
 We have source code, demo and sensors introduction  
 
 (溫溼度感測 temperature and humidity)
@@ -32,6 +32,10 @@ We have source code, demo and sensors introduction
 
 (煙霧氣體感測 MQ2)
 
+(一氧化碳CO感測 MQ9)
+
 (人體移動感測 PIR)
+
+(人體紅外熱釋電感測 PIR1.2)
 
 (水滴感測 FC-37)
