@@ -42,4 +42,4 @@ We have source code, demo and sensors introduction
 
 (酒精感測 MQ3)
 
-(火焰感測 F)
+(火焰感測 Flame)
